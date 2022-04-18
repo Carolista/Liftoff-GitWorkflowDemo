@@ -5,9 +5,9 @@ A demonstration of using a git repository cooperatively with another developer
 
 #### A. Fork this repo!
 
-1. Just ONE team member should fork this repo to their own account.
+1. Just ONE team member should fork this repo to their own account so you can do the exercise as a team.
 
-#### B. Make sure everyone is a collaborator on the repo.
+#### B. Make sure everyone is a collaborator on your new forked repo.
 <img width="1200" alt="Screen Shot 2022-04-17 at 7 36 23 PM" src="https://user-images.githubusercontent.com/55961845/163738252-22b04898-c6b3-46e8-bae1-aff1e22f6229.png">
 
 1. Go to Settings > Collaborators.
@@ -16,7 +16,7 @@ A demonstration of using a git repository cooperatively with another developer
 
 #### C. Each person needs a copy on their local machine.
 
-1. DO NOT FORK THE REPO. Then you will no longer actually still be working on the same project.
+1. DO NOT FORK THE REPO AGAIN. Then you will no longer actually still be working on the same project.
 2. As collaborators, you should all have permissions to contribute code, merge each other's code, etc.
 3. Clone the repo as-is. Grab the URL, open a terminal, and use `git clone <repo-url>` to place it where you want on your local machine.
 4. Open your cloned `Liftoff-GitWorkflowDemo` folder in the IDE of your choice (probably VSCode or IntelliJ).
