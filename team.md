@@ -1,2 +1,0 @@
-Carrie Jones
-Valerie Tonsor 
